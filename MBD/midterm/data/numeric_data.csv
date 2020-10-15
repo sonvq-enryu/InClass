@@ -1,0 +1,501 @@
+movie,genres,rating,rating-count,num-reviews,num-critics,gross-USA,gross-world
+The Shawshank Redemption, Drama,9.3,2288478,8309,167,28699976,28815291
+The Godfather, Crime Drama,9.2,1579617,4021,253,134966411,246120974
+The Godfather: Part II, Crime Drama,9.0,1103626,1040,178,47834595,48035783
+The Dark Knight, Action Crime Drama,9.0,2253536,7000,424,535234033,1005455497
+12 Angry Men, Crime Drama,8.9,672124,1618,150,,
+Schindler's List, Biography Drama History,8.9,1188230,1861,231,96898818,322287794
+The Lord of the Rings: The Return of the King, Action Adventure Drama,8.9,1610045,3727,353,377845905,1142270989
+Pulp Fiction, Crime Drama,8.9,1787458,3065,290,107928762,214195434
+"The Good, the Bad and the Ugly", Western,8.8,675263,1128,211,25100000,25252481
+The Lord of the Rings: The Fellowship of the Ring, Action Adventure Drama,8.8,1625751,5400,341,315544750,887934994
+Fight Club, Drama,8.8,1814854,3780,370,37030102,101219059
+Forrest Gump, Drama Romance,8.8,1763430,2440,169,330455270,1025920021
+Inception, Action Adventure Sci-Fi,8.8,2015648,3970,475,292576195,836836967
+The Lord of the Rings: The Two Towers, Action Adventure Drama,8.7,1455074,2577,324,342551365,943282270
+Star Wars: Episode V - The Empire Strikes Back, Action Adventure Fantasy,8.7,1136276,1242,228,292194960,550433836
+The Matrix, Action Sci-Fi,8.7,1639050,4327,342,171479930,465718730
+Goodfellas, Biography Crime Drama,8.7,996233,1333,151,46836214,46884665
+One Flew Over the Cuckoo's Nest, Drama,8.7,896537,998,175,108981275,108997629
+Shichinin no samurai, Action Adventure Drama,8.6,309465,718,133,318649,322773
+Seven, Crime Drama Mystery,8.6,1408845,1500,220,100125643,327333559
+Het leven is mooi, Comedy Drama Romance,8.6,608591,1339,151,57563264,230098753
+Cidade de Deus, Crime Drama,8.6,688046,1011,225,7564459,30680793
+The Silence of the Lambs, Crime Drama Thriller,8.6,1240024,1334,228,130742922,272753884
+It's a Wonderful Life, Drama Family Fantasy,8.6,389823,951,177,,
+Star Wars: Episode IV - A New Hope, Action Adventure Fantasy,8.6,1208145,1866,192,460998507,775768912
+Saving Private Ryan, Drama War,8.6,1209021,2621,268,217049603,482349603
+Spirited Away, Animation Adventure Family,8.6,630780,1332,192,13750644,355467076
+The Green Mile, Crime Drama Fantasy,8.6,1118278,1779,205,136801374,286801374
+Gisaengchung, Comedy Drama Thriller,8.6,484911,2777,546,53369749,257574533
+Interstellar, Adventure Drama Sci-Fi,8.6,1461510,4150,626,188020017,696258169
+Léon, Action Crime Drama,8.5,1012091,1224,140,19501238,19552639
+The Usual Suspects, Crime Mystery Thriller,8.5,972630,1379,149,23341568,23341568
+Seppuku, Action Drama Mystery,8.6,38173,257,76,,
+The Lion King, Animation Adventure Drama,8.5,921133,1031,228,422783777,968511805
+Terug naar de toekomst, Adventure Comedy Sci-Fi,8.5,1032569,1214,247,211406762,388776253
+The Pianist, Biography Drama Music,8.5,711296,942,157,32572577,120072577
+Terminator 2: Judgment Day, Action Sci-Fi,8.5,978427,1288,296,205881154,520884847
+American History X, Drama,8.5,1017497,1596,174,6719864,23875127
+Modern Times, Comedy Drama Family,8.5,212487,307,115,163577,457688
+Hamilton, Biography Drama History,8.7,41945,512,87,163577,457688
+Psycho, Horror Mystery Thriller,8.5,589956,1291,232,32000000,32034402
+Gladiator, Action Adventure Drama,8.5,1313418,2662,213,187705427,465361176
+City Lights, Comedy Drama Romance,8.5,163691,296,122,19181,46008
+The Departed, Crime Drama Thriller,8.5,1164400,2346,289,132384315,291465034
+The Intouchables, Biography Comedy Drama,8.5,739992,638,324,10198820,426588510
+Whiplash, Drama Music,8.5,694673,1227,585,13092000,48983260
+The Prestige, Drama Mystery Sci-Fi,8.5,1161739,1437,362,53089891,109676311
+Hotaru no haka, Animation Drama War,8.5,227214,745,128,516962,516962
+Once Upon a Time in the West, Western,8.5,296730,713,151,,
+Casablanca, Drama Romance War,8.5,512129,1309,197,4108411,4375071
+Nuovo Cinema Paradiso, Drama,8.5,224443,514,117,12397210,12953675
+Rear Window, Mystery Thriller,8.4,434504,858,166,36764313,37032034
+Alien, Horror Sci-Fi,8.4,772091,1452,321,81765459,108110316
+Apocalypse Now, Drama Mystery War,8.4,593701,1213,305,83471511,91968688
+Memento, Mystery Thriller,8.4,1104194,2291,216,25544867,39970386
+Indiana Jones and the Raiders of the Lost Ark, Action Adventure,8.4,868480,948,258,248159971,390133212
+De dictator, Comedy Drama War,8.4,198464,3837,248,,
+Joker, Crime Drama Thriller,8.5,872298,10548,701,335451311,1074251311
+Django Unchained, Drama Western,8.4,1324101,1556,839,162805434,425368238
+Das Leben der Anderen, Drama Mystery Thriller,8.4,351133,513,224,11286112,77356942
+Paths of Glory, Drama War,8.4,173740,429,163,,
+WALL·E, Animation Adventure Family,8.4,978529,1297,269,223808164,521311860
+The Shining, Drama Horror,8.4,873934,1861,360,45332952,46520613
+Avengers: Infinity War, Action Adventure Sci-Fi,8.4,802778,4280,611,678815482,2048359754
+Sunset Boulevard, Drama Film-Noir,8.4,197005,2290,84,299645,299645
+Witness for the Prosecution, Crime Drama Mystery,8.4,105480,2798,260,,
+Spider-Man: Een nieuw universum, Animation Action Adventure,8.4,340530,1836,397,190241310,375540831
+Mononoke-hime, Animation Adventure Fantasy,8.4,333146,717,206,4845631,169785629
+Oldeuboi, Action Drama Mystery,8.4,503444,1020,336,707481,15002116
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Comedy,8.4,442736,951,226,9440272,9443876
+The Dark Knight Rises, Action Adventure,8.4,1487102,3026,548,448139099,1081140725
+Once Upon a Time in America, Crime Drama,8.4,303923,625,19,5321508,5472914
+Aliens, Action Adventure Sci-Fi,8.3,641771,1312,310,85160248,131387762
+Avengers: Endgame, Action Adventure Drama,8.4,765699,8893,557,858373000,2797800564
+Kimi no na wa., Animation Drama Fantasy,8.4,181251,674,231,5017246,358922706
+Coco, Animation Adventure Family,8.4,356338,1115,408,209726015,807083888
+American Beauty, Drama,8.3,1052384,2911,198,130096601,356296601
+Braveheart, Biography Drama History,8.3,944415,1280,148,75609945,213216216
+3 Idiots, Comedy Drama,8.4,334182,670,57,6532874,60262836
+Das Boot, Adventure Drama Thriller,8.3,227472,505,111,11487676,11487676
+Toy Story, Animation Adventure Comedy,8.3,868004,623,160,222498679,404265656
+Tengoku to jigoku, Crime Drama Mystery,8.4,31864,4733,166,46808,46808
+Amadeus, Biography Drama History,8.3,362467,649,115,51973029,52066791
+Taare Zameen Par, Drama Family,8.4,163042,3108,71,1223869,21897373
+Star Wars: Episode VI - Return of the Jedi, Action Adventure Fantasy,8.3,931431,843,202,309306177,475369689
+Inglourious Basterds, Adventure Drama War,8.3,1235532,1895,525,120540719,321455689
+Capharnaüm, Drama,8.4,55214,342,184,1661096,64417003
+Reservoir Dogs, Crime Drama Thriller,8.3,900126,1164,205,2832029,2889963
+Good Will Hunting, Drama Romance,8.3,841326,904,164,138433435,225933435
+2001: Een zwerftocht in de ruimte, Adventure Sci-Fi,8.3,590624,2175,269,60541301,68989547
+Requiem for a Dream, Drama,8.3,751468,2132,251,3635482,7390108
+Vertigo, Mystery Romance Thriller,8.3,355007,870,190,7705225,7796389
+M - Eine Stadt sucht einen Mörder, Crime Mystery Thriller,8.3,140140,3209,31,35566,35566
+Dangal, Action Biography Drama,8.4,149275,1814,52,12391761,303723636
+Eternal Sunshine of the Spotless Mind, Drama Romance Sci-Fi,8.3,893799,1832,298,34400301,74036715
+Jagten, Drama,8.3,271338,423,370,613308,15843274
+1917, Drama War,8.3,372070,2880,476,159227644,384784776
+Citizen Kane, Drama Mystery,8.3,391070,1453,248,1585634,1594107
+Full Metal Jacket, Drama War,8.3,661072,859,165,46357676,46357676
+Ladri di biciclette, Drama,8.3,142464,4394,124,371111,428978
+The Kid, Comedy Drama Family,8.3,109896,193,105,,
+North by Northwest, Adventure Mystery Thriller,8.3,293089,614,174,,73446
+A Clockwork Orange, Crime Drama Sci-Fi,8.3,743212,1581,184,26589355,26903440
+Singin' in the Rain, Comedy Musical Romance,8.3,214203,675,155,1826108,1864182
+Snatch, Comedy Crime,8.3,769064,843,157,30328156,83557872
+Scarface, Crime Drama,8.3,724487,1057,177,45408703,66023585
+Taxi Driver, Crime Drama,8.3,706902,1185,291,28262574,28441292
+Ikiru, Drama,8.3,66032,4769,609,60239,90773
+Lawrence of Arabia, Adventure Biography Drama,8.3,262712,682,150,45306425,45715557
+Amélie, Comedy Romance,8.3,692602,1495,142,33225499,173924742
+Toy Story 3, Animation Adventure Comedy,8.3,742447,896,477,415004880,1066969703
+The Sting, Comedy Crime Drama,8.3,237269,319,129,156000000,156000000
+Metropolis, Drama Sci-Fi,8.3,156937,499,209,1236166,1349711
+A Separation, Drama Thriller,8.3,215095,366,381,7099055,22926076
+For a Few Dollars More, Western,8.3,227391,297,94,15000000,15000000
+Incendies, Drama Mystery War,8.3,143982,251,243,2071334,7099598
+Het appartement, Comedy Drama Romance,8.3,160111,335,234,,
+Double Indemnity, Crime Drama Film-Noir,8.3,140396,397,149,,13886
+Idi i smotri, Drama Thriller War,8.3,55164,812,243,71909,168817
+To Kill a Mockingbird, Crime Drama,8.2,289757,572,155,592237,599146
+Indiana Jones and the Last Crusade, Action Adventure,8.2,679359,585,170,197171806,474310887
+Up, Animation Adventure Comedy,8.2,915162,919,420,293004164,735099102
+L.A. Confidential, Crime Drama Mystery,8.2,523276,719,132,64616940,126216940
+Heat, Crime Drama Thriller,8.2,564806,1093,210,67436818,187436818
+Monty Python and the Holy Grail, Adventure Comedy Fantasy,8.2,493278,780,103,1827696,1938971
+Die Hard, Action Thriller,8.2,770334,932,295,83519093,141482299
+Rashômon, Crime Drama Mystery,8.2,149085,351,143,46808,46808
+Batman Begins, Action Adventure,8.2,1283791,2915,325,206852432,373660141
+Yôjinbô, Action Drama Thriller,8.2,108360,4600,158,46808,46808
+Green Book, Biography Comedy Drama,8.2,346612,1487,400,85080171,321752656
+Bacheha-Ye aseman, Drama Family Sport,8.3,62939,186,58,933933,933933
+Der Untergang, Biography Drama History,8.2,325863,636,112,5509040,92181574
+Unforgiven, Drama Western,8.2,368872,595,130,101157447,159157447
+Some Like It Hot, Comedy Music Romance,8.2,239157,424,224,,
+Ran, Action Drama War,8.2,109603,284,161,4135750,4163377
+Hauru no ugoku shiro, Animation Adventure Family,8.2,321694,447,244,5576743,236212992
+Anand, Drama Musical,8.5,28653,120,11,5576743,236212992
+A Beautiful Mind, Biography Drama,8.2,830966,1308,152,170742341,316791257
+All About Eve, Drama,8.2,118246,374,140,63463,150438
+The Great Escape, Adventure Drama History,8.2,220596,365,111,63463,227940
+Casino, Crime Drama,8.2,455246,639,155,42512375,116112375
+Pan's Labyrinth, Drama Fantasy War,8.2,608845,1281,457,37634615,83850267
+The Wolf of Wall Street, Biography Crime Drama,8.2,1148072,1478,647,116900694,392000694
+El secreto de sus ojos, Drama Mystery Romance,8.2,188850,305,281,6391436,42629597
+"Lock, Stock and Two Smoking Barrels", Action Comedy Crime,8.2,526356,586,115,3753929,3753929
+Raging Bull, Biography Drama Sport,8.2,315222,598,140,23383987,23402427
+Tonari no Totoro, Animation Family Fantasy,8.2,280608,479,134,2250213,30477153
+There Will Be Blood, Drama,8.2,505444,1334,345,40222514,76181545
+Oordeel te Neurenberg, Drama War,8.2,67792,217,102,,
+The Treasure of the Sierra Madre, Adventure Drama Western,8.2,112071,274,98,215295,215295
+"Three Billboards Outside Ebbing, Missouri", Comedy Crime Drama,8.2,414857,1199,576,54513740,160192031
+Dial M for Murder, Crime Thriller,8.2,154267,358,107,12562,18816
+Babam ve Oglum, Drama Family,8.3,76596,132,6,12562,18612999
+Chinatown, Drama Mystery Thriller,8.1,288220,542,151,29200000,29225935
+The Gold Rush, Adventure Comedy Drama,8.2,98181,192,125,,
+Shutter Island, Mystery Thriller,8.2,1101530,1300,524,128012934,294804195
+No Country for Old Men, Crime Drama Thriller,8.1,835794,1860,524,74283625,171627166
+V for Vendetta, Action Drama Sci-Fi,8.2,1013041,2229,191,70511035,132511035
+Det sjunde inseglet, Drama Fantasy,8.2,160348,350,122,,
+Binnenstebuiten, Animation Adventure Comedy,8.1,595724,1040,588,356921711,858071350
+Warrior, Action Drama Sport,8.2,429031,693,339,13657115,23308615
+The Elephant Man, Biography Drama,8.1,215540,423,152,26010864,26020641
+Trainspotting, Drama,8.1,625227,633,149,16491080,16593356
+The Sixth Sense, Drama Mystery Thriller,8.1,897295,2239,266,293506292,672806292
+The Thing, Horror Mystery Sci-Fi,8.1,361840,1116,346,19629760,19629760
+Jurassic Park, Action Adventure Sci-Fi,8.1,849688,1163,352,404214720,1033917066
+Gejaagd door de wind, Drama History Romance,8.1,285046,888,197,200852579,402352579
+The Truman Show, Comedy Drama Sci-Fi,8.1,915295,1174,240,125618201,264118201
+Smultronstället, Drama Romance,8.2,93536,196,99,,
+Finding Nemo, Animation Adventure Comedy,8.1,931241,979,149,380843261,940350194
+Blade Runner, Action Sci-Fi Thriller,8.1,680790,1563,259,32868943,41492614
+Room, Drama Thriller,8.1,360005,689,479,14677654,35401758
+Kill Bill: Vol. 1, Action Crime Thriller,8.1,981181,2293,371,70099045,180899045
+The Bridge on the River Kwai, Adventure Drama War,8.1,199616,331,97,27200000,27200000
+Stalker, Drama Sci-Fi,8.2,112861,1821,48,292049,303815
+Fargo, Crime Drama Thriller,8.1,603195,964,227,24611975,60611975
+Salinui chueok, Action Crime Drama,8.1,130062,248,187,15357,1123723
+Tôkyô monogatari, Drama,8.2,50986,171,111,15357,40405
+The Third Man, Film-Noir Mystery Thriller,8.1,155968,476,253,1067364,1225595
+On the Waterfront, Crime Drama Thriller,8.1,139236,335,163,1067364,1225595
+Gran Torino, Drama,8.1,709312,1000,372,148095302,269958228
+The Deer Hunter, Drama War,8.1,305563,1143,141,48979328,49074243
+Relatos salvajes, Comedy Drama Thriller,8.1,171623,235,312,3106530,30642704
+Klaus, Animation Adventure Comedy,8.2,76231,600,101,3106530,30642704
+In the Name of the Father, Biography Drama,8.1,153530,186,61,25096862,65796862
+Mary and Max, Animation Comedy Drama,8.1,161714,4406,543,,
+Andhadhun, Crime Thriller,8.3,66765,2710,3,1193046,62475342
+Gone Girl, Drama Mystery Thriller,8.1,837550,1485,623,167767189,369330363
+The Grand Budapest Hotel, Adventure Comedy Crime,8.1,690564,887,574,59301324,172940046
+Hacksaw Ridge, Biography Drama History,8.1,421104,918,472,67209615,180450918
+Before Sunrise, Drama Romance,8.1,264494,510,150,5535405,5986708
+The Big Lebowski, Comedy Crime Sport,8.1,717190,1255,197,18034458,46737965
+Catch Me If You Can, Biography Crime Drama,8.1,805160,853,205,164615351,352114312
+Persona, Drama Thriller,8.1,99703,232,143,,
+Eskiya, Crime Drama Thriller,8.2,62314,62,6,,
+Gevaarlijk spel, Comedy War,8.2,27993,138,76,3270000,4578000
+Prisoners, Crime Drama Mystery,8.1,584530,928,494,61002302,122126687
+Le Mans '66, Action Biography Drama,8.1,261086,1349,344,117624357,225508210
+Sherlock Jr., Action Comedy Romance,8.2,40087,323,71,977375,225508210
+The General, Action Adventure Comedy,8.1,79167,297,117,977375,225508210
+How to Train Your Dragon, Animation Action Adventure,8.1,653889,634,193,217581231,494878759
+Mr. Smith Goes to Washington, Comedy Drama,8.1,104952,298,89,144738,144738
+12 Years a Slave, Biography Drama History,8.1,627171,882,617,56671993,187733202
+Barry Lyndon, Adventure Drama History,8.1,146122,464,108,,
+Mad Max: Fury Road, Action Adventure Sci-Fi,8.1,860419,2029,829,154058340,375225175
+Network, Drama,8.1,142457,397,176,23689877,23690757
+Stand by Me, Adventure Drama,8.1,357119,702,133,52287414,52287414
+Million Dollar Baby, Drama Sport,8.1,625496,1238,266,100492203,216763646
+Cool Hand Luke, Crime Drama,8.1,158983,337,130,100492203,216763646
+Dead Poets Society, Comedy Drama,8.1,413266,640,106,95860116,235860116
+Hachi, Drama Family,8.1,247044,2500,89,,
+Ben Hur, Adventure Drama History,8.1,215625,449,130,74422622,74427638
+Harry Potter and the Deathly Hallows: Part 2, Adventure Drama Fantasy,8.1,746507,962,486,381409310,1342192833
+Into the Wild, Adventure Biography Drama,8.1,562620,959,246,18354356,56674477
+Platoon, Drama War,8.1,374628,609,138,138530565,138545632
+Logan, Action Drama Sci-Fi,8.1,630698,1579,643,226277068,619021436
+Le salaire de la peur, Adventure Drama Thriller,8.1,53246,168,140,,
+Monty Python's Life of Brian, Comedy,8.1,360684,395,112,20206622,20738988
+Rush, Action Biography Drama,8.1,424588,578,425,26947624,96983009
+Ah-ga-ssi, Drama Romance Thriller,8.1,106052,229,338,2006788,37767206
+La passion de Jeanne d'Arc, Biography Drama History,8.1,46172,195,138,21877,21877
+Les quatre cents coups, Crime Drama,8.1,102510,218,169,509,127244
+Andrei Rublev, Biography Drama History,8.1,45168,160,113,124189,145491
+Hotel Rwanda, Biography Drama History,8.1,330112,675,153,23530892,33882243
+Spotlight, Biography Crime Drama,8.1,408923,619,500,45055776,98690254
+Du rififi chez les hommes, Crime Drama Thriller,8.2,26984,133,99,517975,521342
+Amores perros, Drama Thriller,8.1,220004,403,160,5408467,20908467
+La haine, Crime Drama,8.1,145515,1957,362,280859,301462
+Kaze no tani no Naushika, Animation Adventure Fantasy,8.1,146019,247,130,495770,8736506
+Rocky, Drama Sport,8.1,508067,711,185,117235147,117248937
+Gangs of Wasseypur, Action Crime Drama,8.2,79144,240,114,,
+Rang De Basanti, Comedy Drama,8.2,109506,369,42,2197694,8846694
+"Monsters, Inc.", Animation Adventure Comedy,8.0,798026,690,265,289916256,578981070
+Rebecca, Drama Mystery Romance,8.1,119982,344,197,,
+Portrait de la jeune fille en feu, Drama Romance,8.1,52268,316,256,3759854,9919850
+Before Sunset, Drama Romance,8.1,230084,555,230,5820649,15936507
+Fa yeung nin wah, Drama Romance,8.1,119999,423,149,2738980,12854953
+"Paris, Texas", Drama,8.1,87333,231,101,2181987,2206121
+Het gebeurde op 'n avond, Comedy Romance,8.1,91832,301,121,2181987,2206121
+Drishyam, Crime Drama Mystery,8.2,66718,4353,225,2181987,2206121
+Contratiempo, Crime Drama Mystery,8.1,129401,584,4,2181987,31191910
+The Circus, Comedy Romance,8.1,28077,337,67,,
+The Help, Drama,8.0,420920,574,394,169708112,216639112
+The Princess Bride, Adventure Family Fantasy,8.1,387084,870,218,30857814,30882762
+De slag om Algiers, Drama War,8.1,51523,290,151,879794,964028
+De uitroeier, Action Sci-Fi,8.0,787314,907,235,38371200,78680331
+Mandariinid, Drama War,8.2,37839,84,121,144501,1024132
+Aladdin, Animation Adventure Comedy,8.0,365821,336,156,217350219,504050219
+"Swades: We, the People", Drama,8.2,81652,287,80,1223240,1953889
+Trois couleurs: Rouge, Drama Mystery Romance,8.1,88334,172,107,3581969,3581969
+Nada a Perder, Biography Drama,5.5,22843,35,5,1016188,36075317
+Meet the Blacks, Comedy Horror,4.8,35500,46,16,9097072,9097072
+God's Not Dead, Drama,4.7,39936,724,57,60755732,64676349
+Zoolander 2, Action Adventure Comedy,4.7,63805,217,252,28848693,56722693
+Ra.One, Action Adventure Sci-Fi,4.7,37645,317,58,2511689,35911689
+The Twilight Saga: New Moon, Adventure Drama Fantasy,4.7,261875,937,307,297816253,711025481
+Jonah Hex, Action Drama Fantasy,4.7,54772,217,190,10547117,10903312
+AVP2: Aliens vs. Predator 2 - Requiem, Action Adventure Fantasy,4.7,114595,1073,228,41797066,130290885
+Elektra, Action Adventure Crime,4.7,86320,403,203,24409722,56995646
+Fifty Shades Darker, Drama Romance,4.6,89766,311,245,114581250,381545846
+Paranormal Activity: The Ghost Dimension, Horror Mystery,4.6,24449,130,139,18300124,78903124
+Paranormal Activity 4, Horror Mystery,4.6,61355,273,258,53885000,142802657
+Yogi Bear, Animation Adventure Comedy,4.6,20088,114,146,100246011,203509374
+Black Christmas, Horror,4.6,24447,309,201,16273581,21510851
+Freddy Got Fingered, Comedy,4.6,45591,683,87,14254993,14343028
+Psycho, Horror Mystery Thriller,4.6,45261,630,134,21485655,37170655
+Driven, Action Drama Sport,4.6,38953,347,114,32720065,54744738
+The Island of Dr. Moreau, Horror Sci-Fi Thriller,4.6,30678,2637,1,27663982,49627779
+Vampire in Brooklyn, Comedy Fantasy Horror,4.6,21265,71,40,19751736,19751736
+Junior, Comedy Romance Sci-Fi,4.6,64161,89,43,36763355,108431355
+Friday the 13th Part VIII: Jason Takes Manhattan, Adventure Horror Thriller,4.6,32722,335,165,14343976,14343976
+Fifty Shades Freed, Drama Romance Thriller,4.5,53646,263,179,100407760,371985018
+Snatched, Action Adventure Comedy,4.5,32658,316,162,45852178,60845711
+Sex and the City 2, Comedy Drama Romance,4.5,73205,331,223,95347692,290745055
+Death Note, Action Adventure Crime,4.5,74109,1053,127,95347692,290745055
+Alvin en de Chipmunks 2, Animation Adventure Comedy,4.5,42788,106,107,219614612,443140005
+Ouija, Horror Mystery Thriller,4.5,47043,203,203,50856010,103687316
+Hannah Montana: The Movie, Comedy Drama Family,4.5,39114,160,136,79576189,155545279
+Rings, Drama Horror Mystery,4.5,37064,224,211,27793018,83080890
+Postal, Action Comedy Crime,4.5,22153,156,121,,
+The Butterfly Effect 2, Drama Sci-Fi Thriller,4.5,34105,125,30,,966458
+Superhero Movie, Action Comedy Sci-Fi,4.5,62881,195,121,25881068,71571300
+Soul Plane, Comedy,4.5,21469,156,73,14190750,14821824
+Taxi, Action Comedy Crime,4.5,39661,187,80,36879320,71255003
+Species II, Action Horror Sci-Fi,4.5,27056,164,104,19221939,19221939
+Home Alone 3, Action Comedy Crime,4.5,102903,2204,1229,30882515,79082515
+Striptease, Comedy Crime Drama,4.5,42198,140,57,33109743,113309743
+Bio-Dome, Comedy,4.5,25735,151,29,13427615,13427615
+Highlander III: The Sorcerer, Action Fantasy Romance,4.5,19610,84,44,12303080,12303080
+Police Academy 6: City Under Siege, Comedy Crime,4.5,27749,69,28,11567217,11567217
+Escape Plan 3: The Extractors, Action Crime Thriller,4.4,10665,3503,338,,
+God's Not Dead 2, Drama,4.4,11244,166,45,20774575,24487848
+Paul Blart: Mall Cop 2, Action Comedy Crime,4.4,33570,169,82,71038190,107588225
+Getaway, Action Crime Thriller,4.4,23027,127,156,10501938,11806432
+The Darkness, Horror Thriller,4.4,14525,152,82,10753574,10898293
+Setup, Action Crime Drama,4.4,20361,102,36,,
+LOL, Comedy Drama Romance,4.4,53362,128,57,,10578643
+Skyline, Action Sci-Fi Thriller,4.4,85788,999,229,21393620,66984887
+The Human Centipede (First Sequence), Horror,4.4,72039,477,305,181467,325113
+"Big Mommas: Like Father, Like Son", Action Comedy Crime,4.4,25112,52,88,37915414,82686066
+Bitch Slap, Action Comedy Crime,4.4,13350,61,92,17365,439587
+Basic Instinct 2, Drama Mystery Thriller,4.4,36945,330,91,5971336,38629478
+Little Man, Comedy Crime,4.4,49682,204,80,58645052,104003322
+The Shaggy Dog, Comedy Family Fantasy,4.4,18031,88,80,61123569,87134280
+Zoom, Action Adventure Comedy,4.4,18668,129,61,11989328,12506362
+Ultraviolet, Action Sci-Fi,4.4,78890,849,161,18535812,31070211
+xXx: The Next Level, Action Adventure Crime,4.4,66628,235,50,26873932,71022693
+Kangaroo Jack, Action Adventure Comedy,4.4,29209,196,77,66934963,88929111
+Baise-moi, Crime Drama Thriller,4.4,16622,240,89,420224,940944
+Jason X, Action Horror Sci-Fi,4.4,49579,700,222,13121555,17077882
+Nutty Professor II: The Klumps, Comedy Romance Sci-Fi,4.4,47739,181,97,123309890,166339890
+The Next Karate Kid, Action Drama Family,4.4,25479,101,33,8914777,15876353
+Look Who's Talking Now, Comedy Family Romance,4.4,27289,36,19,10340263,10340263
+Critters 3, Comedy Horror Sci-Fi,4.4,10792,51,48,10340263,10340263
+Supergirl, Action Adventure Fantasy,4.4,18360,177,94,14296438,14296438
+Grease 2, Comedy Drama Musical,4.4,32340,316,34,15171476,15171476
+Secret Obsession, Drama Mystery Thriller,4.3,17256,4172,290,15171476,15171476
+The Last Thing He Wanted, Crime Drama Thriller,4.3,11592,372,50,15171476,15171476
+Siberia, Crime Romance Thriller,4.3,12025,302,68,,
+Exposed, Crime Drama Mystery,4.3,13488,203,55,,269915
+Yoga Hosers, Action Comedy Fantasy,4.3,11960,106,113,,36585
+The Grudge, Horror Mystery,4.3,17740,541,180,21221803,49511319
+Alvin en de Chipmunks 3, Animation Adventure Comedy,4.3,30783,72,90,133110742,342695435
+Fantastic Four, Action Adventure Sci-Fi,4.3,149804,861,419,56117548,167882881
+Marmaduke, Comedy Family,4.3,14138,67,100,33644788,83761844
+Movie 43, Comedy,4.3,98335,527,188,8840453,32443111
+Cats & Dogs: The Revenge of Kitty Galore, Action Comedy Family,4.3,13740,66,93,43585753,112483764
+Ghost Rider: Spirit of Vengeance, Action Fantasy Thriller,4.3,109421,366,302,51774002,132563930
+College Road Trip, Adventure Comedy Drama,4.3,15229,60,64,45610425,51549674
+Cabin Fever 2: Spring Fever, Horror,4.3,12725,105,99,45610425,51549674
+The Comebacks, Comedy Sport,4.3,10948,48,50,13349927,13539154
+Cell, Action Drama Horror,4.3,24729,238,141,,
+Fat Albert, Animation Comedy Family,4.3,11130,92,61,48116322,48551322
+Spy Kids 3: Game Over, Action Adventure Comedy,4.3,53951,209,93,111761982,197101678
+Urban Legends: Final Cut, Horror Mystery Thriller,4.3,15875,231,126,21468807,38574362
+Thunderbirds, Action Adventure Comedy,4.3,12992,230,75,6880917,28283637
+Wing Commander, Action Adventure Sci-Fi,4.3,16005,343,87,11578059,11578059
+Fair Game, Action Romance Thriller,4.3,12002,65,48,11534477,11534477
+Stop! Or My Mom Will Shoot, Action Comedy,4.3,37866,93,25,28411210,70611210
+Highlander II: The Quickening, Action Adventure Fantasy,4.3,42997,281,73,15556340,15556340
+The Bye Bye Man, Drama Fantasy Horror,4.2,21205,271,188,22395806,29874280
+V/H/S Viral, Horror Thriller,4.2,14828,114,128,2756,82409
+Vice, Action Adventure Sci-Fi,4.2,15306,147,37,2756,1568954
+Artemis Fowl, Adventure Family Fantasy,4.2,19146,897,130,2756,1568954
+The Gallows, Horror Mystery Thriller,4.2,19028,182,172,22764410,42964410
+A Wrinkle in Time, Adventure Family Fantasy,4.2,40125,912,271,100478608,132675864
+The Devil Inside, Horror,4.2,34605,308,231,53261944,101758490
+Area 51, Horror Mystery Sci-Fi,4.2,12980,106,59,7556,7556
+Recep Ivedik 2, Comedy,4.2,18654,9,2,7556,27699692
+The Legend of Hercules, Action Adventure Fantasy,4.2,52139,237,176,18848538,61279452
+Are We Done Yet?, Comedy Family Fantasy,4.2,19397,65,64,49662533,58388068
+Boogeyman, Drama Horror Mystery,4.2,29425,396,142,46752382,67192859
+A Sound of Thunder, Action Adventure Horror,4.2,18711,316,117,1900451,11665465
+Universal Soldier: The Return, Action Sci-Fi,4.2,27532,167,81,10667893,10667893
+The Adventures of Rocky & Bullwinkle, Animation Adventure Comedy,4.2,19173,202,52,26005820,35134820
+The Patriot, Action Thriller,4.2,11640,89,24,26005820,35134820
+Jason Goes to Hell: The Final Friday, Fantasy Horror Thriller,4.2,27564,362,142,15935068,15935068
+Devil's Due, Horror Mystery,4.1,15948,131,142,15821461,36921560
+Fifty Shades of Grey, Drama Romance Thriller,4.1,293962,1557,404,166167230,569651467
+The Apparition, Horror Thriller,4.1,18721,123,145,4936819,11350665
+Zombie Strippers!, Comedy Horror Sci-Fi,4.1,17505,102,139,,
+Norbit, Comedy Romance,4.1,67508,313,128,95673607,159814490
+Torque, Action Comedy Crime,4.1,26840,217,88,21215059,46546197
+Inspector Gadget, Action Adventure Comedy,4.1,44770,237,74,97403112,134403112
+Beowulf, Action Adventure Fantasy,4.1,11069,158,39,,
+Super Mario Bros., Adventure Comedy Family,4.1,48034,1948,317,20915465,20915465
+RoboCop 3, Action Crime Sci-Fi,4.1,45251,208,101,10696210,10696210
+Enes Batur Hayal mi Gerçek mi?, Comedy,4.0,53727,41,5,,
+Thugs of Hindostan, Action Adventure,4.0,17207,924,29,1449848,39570044
+Wounds, Drama Horror Mystery,4.0,14818,518,71,1449848,39570044
+Tubelight, Drama War,4.0,13960,128,29,930058,4650456
+The Last Exorcism: God Asks. The Devil Commands, Horror Thriller,4.0,15618,77,163,15179302,25051865
+Shark Night 3D, Horror Thriller,4.0,24457,155,240,18877153,41363927
+Recep Ivedik 3, Comedy,4.0,17260,2,6,18877153,22588876
+The Last Airbender, Action Adventure Family,4.0,150301,1589,291,131772187,319713881
+One Missed Call, Horror Mystery,4.0,30606,200,142,26890041,45847751
+Material Girls, Comedy Family Romance,4.0,21387,95,56,11449638,16907725
+Halloween: Resurrection, Horror Thriller,4.0,36748,650,164,30354442,37664855
+Mr. Magoo, Adventure Comedy Family,4.0,14114,54,19,21437192,21437192
+Street Fighter, Action Adventure Comedy,4.0,65115,830,858,33423521,99431786
+Plan 9 from Outer Space, Horror Sci-Fi,4.0,35581,4523,3150,33423521,99431786
+Zashchitniki, Action Adventure Comedy,3.9,11486,156,54,,
+11-11-11, Horror Mystery Thriller,3.9,11965,71,91,32771,6963872
+Jeepers Creepers 3, Action Horror Mystery,3.9,16683,3798,344,2335162,4017852
+Prom Night, Horror Mystery,3.9,33458,285,152,43869350,57197876
+You Got Served, Drama Music,3.9,25729,248,56,40363810,50576805
+The Cat in the Hat, Adventure Comedy Family,3.9,51326,608,104,101149285,133960541
+Book of Shadows: Blair Witch 2, Adventure Fantasy Horror,3.9,35333,466,173,26437094,47737094
+Speed 2: Cruise Control, Action Adventure Crime,3.9,73757,282,90,48608066,164508066
+Singularity, Action Adventure Drama,3.8,12770,343,18,4176,86822
+Escape Plan 2: Hades, Action Crime Mystery,3.8,27221,2804,74,4176,17592626
+The Canyons, Drama Thriller,3.8,10362,101,170,56825,270185
+The Human Centipede II (Full Sequence), Crime Horror,3.8,35106,266,194,141877,170323
+Holmes & Watson, Comedy Crime Mystery,3.8,28957,914,106,30573626,40466970
+Beverly Hills Chihuahua, Adventure Comedy Drama,3.8,22509,113,102,94514402,149292488
+The Love Guru, Comedy Romance Sport,3.8,49951,290,148,32235793,40877556
+Furry Vengeance, Comedy Family,3.8,15536,94,103,17630465,36351945
+In the Name of the King: A Dungeon Siege Tale, Action Adventure Fantasy,3.8,43984,399,146,4775656,13097915
+The Adventures of Pluto Nash, Action Comedy Sci-Fi,3.8,24270,186,58,4420080,7103973
+Batman & Robin, Action Sci-Fi,3.8,231240,1147,216,107353792,238235915
+The Avengers, Action Adventure Sci-Fi,3.8,40470,471,118,23384939,23384939
+Double Dragon, Action Adventure Comedy,3.8,11035,67,108,2341309,2341309
+Caddyshack II, Comedy Sport,3.8,14492,88,8,11798302,11798302
+Exorcist II: The Heretic, Horror,3.8,21459,283,123,30749142,30749142
+Recep Ivedik 4, Comedy,3.7,14942,9,2,30749142,39477906
+Piranha 3DD, Comedy Horror,3.7,39463,191,252,376512,8518634
+Street Fighter: The Legend of Chun-Li, Action Crime Thriller,3.7,22810,195,99,8742261,12764201
+Extreme Movie, Comedy,3.7,10602,40,16,,
+The Wicker Man, Horror Mystery Thriller,3.7,63525,781,200,23649127,38805380
+The Fog, Horror Mystery,3.7,34662,476,144,29550869,46201432
+The Room, Drama,3.7,80570,647,112,549602,4967900
+Ballistic: Ecks vs. Sever, Action Crime Mystery,3.7,19027,282,94,14307963,20154899
+Mortal Kombat: Annihilation, Action Adventure Fantasy,3.7,46003,289,70,35927406,51376861
+Superman IV: The Quest for Peace, Action Adventure Sci-Fi,3.7,42304,289,114,15681020,15681020
+Jaws 3-D, Adventure Horror Thriller,3.7,39180,317,91,45517055,87987055
+The Hungover Games, Comedy,3.6,11582,2739,519,45517055,87987055
+S. Darko, Drama Mystery Sci-Fi,3.6,13114,123,87,,
+Stan Helsing, Comedy Horror,3.6,12398,88,48,,1475003
+I Know Who Killed Me, Crime Drama Mystery,3.6,25780,281,145,7498716,9669758
+Delta Farce, Action Adventure Comedy,3.6,10595,65,43,8130530,8729473
+The Adventures of Sharkboy and Lavagirl 3-D, Action Adventure Comedy,3.6,31141,221,70,39177684,71992655
+Swept Away, Comedy Romance,3.6,15565,226,73,598645,1036520
+Dungeons & Dragons, Action Adventure Fantasy,3.6,31703,608,79,15391970,33978694
+The Flintstones in Viva Rock Vegas, Comedy Family Romance,3.6,21309,100,62,35268275,59468275
+2001: A Space Travesty, Comedy Sci-Fi,3.6,11364,94,3,,
+Police Academy: Mission to Moscow, Comedy Crime,3.6,31427,118,26,126247,126247
+Kalank, Drama Romance,3.5,11409,514,23,2729336,17987034
+Fifty Shades of Black, Comedy,3.5,19225,84,78,11686940,22227514
+Spy Kids 4: All the Time in the World, Action Adventure Comedy,3.5,22274,93,75,38538188,85564310
+Dance Flick, Action Comedy Music,3.5,11630,58,84,25662155,31439140
+Scary Movie 5, Comedy Horror,3.5,64671,213,159,32015787,78378744
+D-War, Action Drama Fantasy,3.5,23562,375,100,10977721,75108817
+Crossroads, Comedy Drama Romance,3.5,38104,575,117,37191304,61141030
+Spice World, Comedy Family Music,3.5,32905,269,39,29342592,29342592
+Vampires Suck, Comedy Horror,3.4,46116,201,121,36661504,80547866
+Dumb and Dumberer: When Harry Met Lloyd, Comedy,3.4,36951,272,86,26276465,39267515
+Catwoman, Action Crime Fantasy,3.4,109339,729,131,40202379,82102379
+The Master of Disguise, Adventure Comedy Family,3.4,22062,330,51,40388794,43411001
+Feardotcom, Crime Horror Thriller,3.4,19818,416,104,13258249,18902015
+Mac and Me, Adventure Family Fantasy,3.4,11282,142,48,6424112,6424112
+Teen Wolf Too, Comedy Fantasy,3.4,10452,73,46,7888703,7888703
+Recep Ivedik 5, Comedy,3.3,14162,17,,7888703,28952258
+The Emoji Movie, Animation Adventure Comedy,3.3,54483,826,157,86089513,217776646
+365 dni, Drama Romance,3.3,38422,18,4,,
+Jack and Jill, Comedy,3.3,76828,358,163,74158157,149673788
+Larry the Cable Guy: Health Inspector, Comedy Romance,3.3,10407,116,36,15680099,15680099
+Barb Wire, Action Sci-Fi,3.3,24772,106,89,3793614,3793614
+The Return of the Texas Chainsaw Massacre, Comedy Horror Thriller,3.3,19649,287,70,185898,185898
+Hercules in New York, Adventure Comedy Fantasy,3.3,16922,146,47,185898,185898
+The Open House, Horror Thriller,3.2,30101,4019,89,185898,185898
+Veere Di Wedding, Comedy,3.2,11468,456,21,185898,2176099
+Slender Man, Horror Mystery Thriller,3.2,27347,682,136,30569484,51738549
+The Starving Games, Comedy Sci-Fi,3.2,18747,72,42,,
+Bucky Larson: Born to Be a Star, Comedy,3.2,11243,79,49,2529395,2530394
+Die unendliche Geschichte III: Rettung aus Phantasien, Adventure Comedy Family,3.2,10599,100,18,2529395,2530394
+Captain America, Action Adventure Sci-Fi,3.2,11108,135,91,2529395,2530394
+Left Behind, Action Fantasy Sci-Fi,3.1,36473,607,175,14019924,27405896
+Bratz, Comedy Family Music,3.1,17614,118,61,10010209,26013153
+Daddy Day Camp, Comedy Family,3.1,15484,46,54,13235267,18197398
+Far Cry, Action Adventure Sci-Fi,3.1,13180,82,54,,
+Rollerball, Action Sci-Fi Sport,3.1,25484,298,157,18990798,25852764
+Kazaam, Comedy Family Fantasy,3.0,22843,107,22,18937262,18937262
+Jaws: The Revenge, Adventure Horror Thriller,3.0,40543,446,103,20763013,51881013
+BloodRayne, Action Fantasy Horror,2.9,33898,485,72,2405420,3650275
+3 Ninjas: High Noon at Mega Mountain, Action Adventure Comedy,2.9,10422,71,7,375805,375805
+Troll 2, Comedy Fantasy Horror,2.9,30407,460,151,375805,375805
+Cats, Comedy Drama Family,2.8,36498,1804,231,27166770,73832709
+Meet the Spartans, Comedy,2.8,100782,428,113,38233676,85897593
+Date Movie, Comedy Romance,2.8,56726,619,101,48548426,85749034
+Steel, Action Adventure Crime,2.8,11053,66,45,1710972,1710972
+The Human Centipede III (Final Sequence), Comedy Crime Horror,2.7,14334,141,118,16184,16184
+Santa Claus Conquers the Martians, Adventure Comedy Family,2.7,10702,247,82,16184,16184
+Baby Geniuses, Comedy Crime Family,2.6,24816,187,50,27250736,36450736
+Tees Maar Khan, Comedy Crime,2.5,11180,113,28,1076443,13681934
+Dragonball Evolution, Action Adventure Family,2.5,69452,584,141,9362785,55720772
+Gigli, Comedy Crime Romance,2.5,45757,431,127,6087542,7266209
+Battlefield Earth, Action Adventure Sci-Fi,2.5,75346,1378,119,21471685,29725663
+Gunday, Action Drama Romance,2.4,57508,891,21,,
+Epic Movie, Adventure Comedy,2.4,101051,690,114,39739367,87238158
+Alone in the Dark, Action Horror Sci-Fi,2.4,41441,533,153,5178569,12693645
+Student of the Year 2, Drama Romance Sport,2.3,15298,320,18,778566,1635907
+Glitter, Drama Music Romance,2.3,21325,319,74,4274407,5271666
+Hobgoblins, Comedy Horror Sci-Fi,2.3,10397,207,44,4274407,5271666
+Who's Your Caddy?, Comedy Sport,2.2,14505,49,25,5713425,5713425
+Son of the Mask, Comedy Family Fantasy,2.2,51816,268,52,17018422,59981548
+The Oogieloves in the Big Balloon Adventure, Adventure Family Fantasy,2.1,14839,88,27,1065907,1065907
+From Justin to Kelly, Comedy Musical Romance,2.1,24695,310,62,4928883,4928883
+House of the Dead, Action Adventure Horror,2.0,35656,597,144,10249719,13818181
+Race 3, Action Thriller,1.9,32512,383,22,1690861,6817391
+Kod Adi K.O.Z., Crime Mystery,1.9,27115,73,3,,
+Disaster Movie, Comedy,1.9,86373,427,105,14190901,34816824
+The Hottie & the Nottie, Comedy Romance,1.9,35992,120,77,27696,1596232
+Superbabies: Baby Geniuses 2, Comedy Family Sci-Fi,1.9,29592,132,37,9219388,9448644
+Manos: The Hands of Fate, Horror,1.9,34544,712,112,9219388,9448644
+Birdemic: Shock and Terror, Horror Thriller,1.8,20936,282,101,9219388,9448644
+Daniel der Zauberer, Comedy Crime Fantasy,1.8,13825,48,14,9219388,9448644
+Pledge This!, Comedy,1.8,16736,88,17,,
+Going Overboard, Comedy,1.8,12180,159,18,,
+Dünyayi Kurtaran Adam'in Oglu, Action Comedy Sci-Fi,1.6,15575,20,5,,2381856
+Saving Christmas, Comedy Family,1.4,14837,168,27,2783970,2783970
