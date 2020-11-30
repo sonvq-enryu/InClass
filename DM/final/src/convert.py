@@ -1,14 +1,19 @@
+import os
 import json
 import argparse
 
-parser = argparse.ArgumentParser(description="convert from utf-8-sig to utf-8")
-parser.add_argument("input_file", metavar="input.json", type="str", nargs="+", help="put utf-8-sig path here")
-parser.add_argument("output_file", metavar="output.json", type="str", help="name of utf-8 json file")
-args = parser.parse_args()
+def parse_argument():
+    parser = argparse.ArgumentParser(description="Process command line arguments")
+    parser.add_argument("-path", type=dir_path)
+    parser.add_argument("-path", type=dir_path)
 
-with open(args.input_file, "r", encoding="utf-8") as reader:
-    data = json.load(reader)
 
-with open(args.output_file, "w", encoding="utf-8") as writer:
-    json.dump(writer, data, indent=4, ensure_ascii=False)
+def dir_path(path):
+    if os.path.isdir(path):
+        return path
+    else:
+        raise argparse.ArgumentTypeError(f"readable_dir:{path} is not a valid path")
+
+
+
 
