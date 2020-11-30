@@ -44,7 +44,7 @@ class Schedule:
             if classes[i].room.capacity < classes[i].course.numStudent:
                 self.conflicts += 1
             for j in range(i, len(classes)):
-                if ( classes[i].time == classes[j].time and classes[i].ID != classes[i].ID ):
+                if ( classes[i].time == classes[j].time and classes[i].ID != classes[j].ID ):
                     if classes[i].room == classes[j].room:
                         self.conflicts += 1
                     if classes[i].instructor == classes[j].instructor:
